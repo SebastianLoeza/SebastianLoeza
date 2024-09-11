@@ -1,3 +1,5 @@
+![Cover](Portada.png)
+
 # 💫 About Me:
 🔭 I’m currently studying data science at ESCOM - IPN<br>🌱 I’m currently learning algorithms  for competitive programming and machine learning models<br>🤝 I'm keen on learning new things from people and professional documentation<br> 🐝 IBM - Blue Journey Student
 
