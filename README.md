@@ -9,7 +9,6 @@
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SebastianLoeza&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sebastian's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianLoeza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </p>
 
 
